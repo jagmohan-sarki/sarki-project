@@ -1,4 +1,4 @@
 # sarki-project
 This is my first git repository
 <br>
-Author:- jagmohan sarki
+Author:- jack sarki
